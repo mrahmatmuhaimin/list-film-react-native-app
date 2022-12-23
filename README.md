@@ -27,3 +27,5 @@ then run app
 expo start
 ```
 then select android/ios device to run the app from options
+
+COOL!
