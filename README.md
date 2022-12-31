@@ -1,4 +1,4 @@
-# Mental Health on Tech Workplaces
+# Mo App (Movie App For Everyone) 
 
 # Our Team
 ![Teams](https://img.shields.io/badge/Our%20Team-Team%205-blue)
